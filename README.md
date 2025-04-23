@@ -1,5 +1,5 @@
 ﻿# RC-Car-Made-with-FPGA
-Please use the Raw fine for better viewing.
+Please use the Raw file for better viewing.
 
 Wiring Configuration:
 
