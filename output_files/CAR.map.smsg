@@ -1,0 +1,4 @@
+Info (10281): Verilog HDL Declaration information at seg_driver_X.v(6): object "HEX0" differs only in case from object "hex0" in the same scope File: C:/Users/meetm/OneDrive/Zz/Documents/Quartus/CAR_PROJECT_FINAL/seg_driver_X.v Line: 6
+Info (10281): Verilog HDL Declaration information at spi_param.h(8): object "READ_MODE" differs only in case from object "read_mode" in the same scope File: C:/Users/meetm/OneDrive/Zz/Documents/Quartus/CAR_PROJECT_FINAL/spi_param.h Line: 8
+Info (10281): Verilog HDL Declaration information at seg_driver_Y.v(6): object "HEX2" differs only in case from object "hex2" in the same scope File: C:/Users/meetm/OneDrive/Zz/Documents/Quartus/CAR_PROJECT_FINAL/seg_driver_Y.v Line: 6
+Info (10281): Verilog HDL Declaration information at seg_driver_Z.v(6): object "HEX4" differs only in case from object "hex4" in the same scope File: C:/Users/meetm/OneDrive/Zz/Documents/Quartus/CAR_PROJECT_FINAL/seg_driver_Z.v Line: 6

@@ -1,0 +1,8 @@
+
+State Machine - |DE10_LITE_Golden_Top|motor_control:motor_ctrl|current
+Name current.LEFT current.BACKWARD current.FORWARD current.STOP current.RIGHT 
+current.STOP 0 0 0 0 0 
+current.FORWARD 0 0 1 1 0 
+current.BACKWARD 0 1 0 1 0 
+current.LEFT 1 0 0 1 0 
+current.RIGHT 0 0 0 1 1 
